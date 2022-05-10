@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hassanat-Awodipe
 - 👀 I’m interested in visualisations, insights generation, trends recognition from datasets
-- 🌱 I’m currently learning SQL, Python, Power BI, R, Tableau, Excel and DAX
+- 🌱 I’m currently working towards a Google Data Analytics Certification and a Data Analyst Nanodegree
 - 💞️ I’m looking to collaborate on anything data!
 - 📫 How to reach me ...
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hassanat-Awodipe
-- 👀 I’m interested in insights generation and decision-making by recognising trends from datasets
-- 🌱 I’m currently working towards a Google Data Analytics Certification, an Udacity Data Analyst Nanodegree sponsored by ALX and a CFGDegree sponsored by Code First Girls
+- 👀 I’m interested in the application of data analytics for business growth and development. 
+- 🌱 I have a Nanodegree in Data Analytics by Udacity and Data Specialisation by Code First Girls. I am currently working towards a Google Data Analytics Certification
 - 💞️ I’m looking to collaborate on anything data!
 
 <!---

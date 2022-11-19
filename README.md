@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hassanat-Awodipe
 - 👀 I’m interested in the application of data analytics for business growth and development. 
-- 🌱 I have a Nanodegree in Data Analytics by Udacity and Data Specialisation by Code First Girls. I am also a Google certified Data Analyst
+- 🌱 I ams tudying for a master's degree in Data Science and Business Analytics. I have a Nanodegree in Data Analytics from Udacity and Data Specialisation from Code First Girls. I am also a Google certified Data Analyst
 - 💞️ I’m looking to collaborate on anything data!
 
 <!---
